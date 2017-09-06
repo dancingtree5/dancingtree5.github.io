@@ -1,7 +1,7 @@
 # Site settings
 title: DancingTree's Garage
 description: A blog about Test Tools for vulnerability
-baseurl: "/dancingtree.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "/dancingtree.github.io" # the subpath of your site, e.g. /blog
 url: "https://dancingtree5.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
